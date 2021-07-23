@@ -1,6 +1,6 @@
 universities = [
     {
-        "Address": "上海市闵行区东川路800号",
+        "Address": "南宁市西乡塘区大学东路100号",
         "Lat": 22.8437,
         "Lng": 108.292,
         "Students": [
