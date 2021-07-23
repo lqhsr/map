@@ -5,7 +5,6 @@ universities = [
         "Lng": 108.292,
         "Students": [
             "<li>**宁<ul><li>专业：一流专业</li><li>电话：136****6701</li></ul></li>",
-            "<li>**凡<ul><li>专业：一流专业</li><li>电话：136****6701</li></ul></li>"
         ],
         "Telephone": "(021)54740000",
         "University": "上海交通大学闵行校区"
