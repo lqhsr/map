@@ -1,10 +1,6 @@
-# TG2019303.github.io
-The TG2019303 IT Research Center Official Page
-
 ## 使用说明
-[微信公众号文章链接](https://mp.weixin.qq.com/s/fgpADvMAB6j3pKWQAUwKeA)
 
-这是桐高2019届303班IT研究中心倾力打造的动态大学蹭饭图。
+这是长郡LHR的专属动态大学蹭饭图。
 
 正确输入密钥并回车确认后，你可以自由地移动、缩放地图，查看大学周边。
 
@@ -19,14 +15,3 @@ The TG2019303 IT Research Center Official Page
 如果你是访客，不知道密钥，请点击`访客入口`进入访客页面。
 
 温馨提示：微信会阻止百度地图App打开，如有需要请在浏览器中打开页面。
-
-## 制作指南
-
-[从csv到加密Json和访客数据的仓库](https://github.com/AllanChain/CFTData)如果能打开的话就已经公开了，否则仍处于Private阶段。
-
-数据形式就如`data/TG2019303/exampleData.js`，核心HTML/CSS/JS实现均已公开在此。
-
-- 为什么数据提前定好位而不是用JavaScript API获取？
-  1. 历史原因：一开始先定位后做JS实现
-  2. 感觉JS获取没有直接定点可靠，不要问为什么
-  3. 少麻烦百度吧
